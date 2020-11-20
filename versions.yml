@@ -2,10 +2,6 @@
 # json: https://raw.githubusercontent.com/iku55/rez_versions/main/versions.json
 # yaml: https://raw.githubusercontent.com/iku55/rez_versions/main/versions.yml
 # Create by iku55
-# --- System ---
-# Don't change!
-yamlversion: 2
-# --- Plugins ---
 Advanced-Portals:
 - mcversion: 不明
   version: 0.0.4.1
